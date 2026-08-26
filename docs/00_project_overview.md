@@ -1,0 +1,49 @@
+# 00_project_overview.md
+
+## Goal
+
+Build an end-to-end data project for diabetes prediction:
+
+* EDA
+* Feature engineering decisions integrated into EDA and modeling
+* Modeling
+* App (Streamlit)
+* BI-ready outputs
+
+The focus is not only the model, but **how to structure and validate the work**.
+
+---
+
+## Workflow
+
+For each task:
+
+1. Read the task file in `docs/`
+2. Ask the AI to propose a plan
+3. Implement step by step
+4. Validate against success criteria
+5. Save outputs in the correct folders
+
+---
+
+## Key Principles
+
+* Plan before coding
+* Use notebooks for EDA, modeling, and BI/reporting analysis
+* Keep notebooks organized, reproducible, and presentation-ready
+* Validate outputs explicitly
+* Prefer simple solutions first
+
+---
+
+## Deliverables
+
+By the end:
+
+* EDA notebook with insights
+* Trained diabetes prediction model
+* Modeling notebook with evaluation and interpretation
+* BI/reporting notebook with generated business outputs
+* Streamlit app
+* BI-ready tables and figures
+* Executive summary
